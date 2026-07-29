@@ -2,7 +2,7 @@
 
 Senior Forward Deployed Engineer at Deloitte. I build production data and AI systems inside regulated financial environments.
 
-I started as a CPA doing AML, BSA, and OFAC controls assessments — sitting across from Chief Compliance Officers explaining why a transaction monitoring system couldn't be trusted. Then I moved to the other side of the table and started building the systems instead. That combination is most of what I do now: I own enterprise engagements from executive discovery through production deployment, which means I'm in the stakeholder conversation shaping an ambiguous problem *and* in the repository building the thing that solves it.
+I started as a CPA doing AML, BSA, and OFAC controls assessments — sitting across from Chief Compliance Officers. Then I moved to the other side of the table and started building the systems instead. That combination is most of what I do now: I own enterprise engagements from executive discovery through production deployment, which means I'm in the stakeholder conversation shaping an ambiguous problem *and* in the repository building the thing that solves it.
 
 Seven years in, across Deloitte and EY, working with government pension funds, regional banks, and digital asset platforms.
 
