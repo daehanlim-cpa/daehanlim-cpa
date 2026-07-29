@@ -34,4 +34,4 @@ Currently pursuing a **PhD in Information Technology (Artificial Intelligence)**
 
 ### Elsewhere
 
-[daehanlim.com](https://daehanlim.com) · [LinkedIn](https://www.linkedin.com/in/daehan-lim-cpa/) · [Medium](https://medium.com/@daehanlim1) · daehanlim1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/daehan-lim-cpa/) · [Medium](https://medium.com/@daehanlim1) · daehanlim1@gmail.com
