@@ -17,7 +17,7 @@ Seven years in, across Deloitte and EY, working with government pension funds, r
 
 | | |
 |---|---|
-| [**Portfolio**](https://github.com/daehanlim-cpa/Portfolio) | My site at [daehanlim.com](https://daehanlim.com) — Next.js, with a retrieval-grounded AI assistant that answers questions about my work from my actual resume and project case studies. |
+| [**Portfolio**](https://github.com/daehanlim-cpa/Portfolio) | My site at [daehanlim.com](https://daehanportfolio-5j7l0xwq3-daehan-lims-projects.vercel.app/) — Next.js, with a retrieval-grounded AI assistant that answers questions about my work from my actual resume and project case studies. |
 | [**Transaction Alert Disposition Controls Testing Copilot**](https://github.com/daehanlim-cpa/Transaction-Alert-Disposition-Controls-Testing-Copilot) | RAG-based system that assesses the quality of analyst alert reviews using structured and unstructured evidence — built for compliance managers and internal auditors who need coverage beyond manual sampling. |
 
 I write about this work occasionally — most recently on [using Snowflake Intelligence for transaction alert analytics modernization](https://medium.com/@daehanlim1).
