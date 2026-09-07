@@ -1,0 +1,14 @@
+{
+  // Lint rules tuned for a GitHub profile README.
+  "config": {
+    "default": true,
+    // Prose lines are not wrapped in this README.
+    "MD013": false,
+    // Inline HTML is allowed (used by GitHub profile READMEs).
+    "MD033": false,
+    // The profile intentionally opens with an h2, not a top-level h1.
+    "MD041": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", ".preview"]
+}

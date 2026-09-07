@@ -1,0 +1,17 @@
+{
+  "name": "daehanlim-cpa-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tooling for developing the GitHub profile README: lint and a GitHub-accurate live preview.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\"",
+    "preview:build": "node scripts/render.mjs",
+    "preview": "node scripts/render.mjs --serve"
+  },
+  "devDependencies": {
+    "github-markdown-css": "5.8.1",
+    "marked": "12.0.2",
+    "markdownlint-cli2": "0.13.0"
+  }
+}
